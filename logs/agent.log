@@ -1,0 +1,418 @@
+2026-06-13 22:12:28 [INFO] app: Checking Facebook access token...
+2026-06-13 22:12:29 [INFO] app: Facebook token is valid.
+2026-06-13 22:12:29 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:12:29 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:12:29 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:12:46 [INFO] app: Checking Facebook access token...
+2026-06-13 22:12:46 [INFO] app: Facebook token is valid.
+2026-06-13 22:12:46 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:12:46 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:12:46 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:12:56 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:12:56 [INFO] app: Checking Facebook access token...
+2026-06-13 22:12:56 [INFO] app: Facebook token is valid.
+2026-06-13 22:12:56 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:12:56 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:12:56 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:18:12 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:18:12 [INFO] app: Checking Facebook access token...
+2026-06-13 22:18:13 [INFO] app: Facebook token is valid.
+2026-06-13 22:18:13 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:18:13 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:18:13 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:18:17 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:18:17 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:21:08 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:21:08 [INFO] app: Checking Facebook access token...
+2026-06-13 22:21:09 [INFO] app: Facebook token is valid.
+2026-06-13 22:21:09 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:21:09 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:21:09 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:21:13 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:21:13 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:27:47 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:27:47 [INFO] app: Checking Facebook access token...
+2026-06-13 22:27:47 [INFO] app: Facebook token is valid.
+2026-06-13 22:27:47 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:27:47 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:27:47 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:27:51 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:27:51 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:28:55 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:28:55 [INFO] app: Checking Facebook access token...
+2026-06-13 22:28:55 [INFO] app: Facebook token is valid.
+2026-06-13 22:28:55 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:28:55 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:28:55 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:29:00 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:29:00 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:29:00 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:30:38 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:30:38 [INFO] app: Checking Facebook access token...
+2026-06-13 22:30:39 [INFO] app: Facebook token is valid.
+2026-06-13 22:30:39 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:30:39 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:30:39 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:30:43 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:30:43 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:30:43 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:33:01 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:33:01 [INFO] app: Checking Facebook access token...
+2026-06-13 22:33:01 [INFO] app: Facebook token is valid.
+2026-06-13 22:33:01 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:33:01 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:33:01 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:33:05 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:33:05 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:33:05 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:33:05 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:33:05 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:33:05 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:33:06 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:33:39 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:33:39 [INFO] app: Checking Facebook access token...
+2026-06-13 22:33:39 [INFO] app: Facebook token is valid.
+2026-06-13 22:33:39 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:33:39 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:33:39 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:33:43 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:33:43 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:33:43 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:33:43 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:33:43 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:33:43 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:33:44 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:34:47 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:34:47 [INFO] app: Checking Facebook access token...
+2026-06-13 22:34:48 [INFO] app: Facebook token is valid.
+2026-06-13 22:34:48 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:34:48 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:34:48 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:34:52 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:34:52 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:34:52 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:34:52 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:34:52 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:34:52 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:34:52 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:36:08 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:36:08 [INFO] app: Checking Facebook access token...
+2026-06-13 22:36:09 [INFO] app: Facebook token is valid.
+2026-06-13 22:36:09 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:36:09 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:36:09 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:36:13 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:36:13 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:36:13 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:36:13 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:36:13 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:36:13 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:36:13 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:37:23 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:37:23 [INFO] app: Checking Facebook access token...
+2026-06-13 22:37:24 [INFO] app: Facebook token is valid.
+2026-06-13 22:37:24 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:37:24 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:37:24 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:37:28 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:37:28 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:37:28 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:37:28 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:37:28 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:37:28 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:37:28 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:42:46 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:42:46 [INFO] app: Checking Facebook access token...
+2026-06-13 22:42:46 [INFO] app: Facebook token is valid.
+2026-06-13 22:42:46 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:42:46 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:42:46 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:42:50 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:42:50 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:42:50 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:42:50 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:42:50 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:42:50 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:42:51 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:44:58 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:44:58 [INFO] app: Checking Facebook access token...
+2026-06-13 22:44:58 [INFO] app: Facebook token is valid.
+2026-06-13 22:44:58 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:44:58 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:44:58 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:45:02 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:45:02 [INFO] discord_listener.bot: Intents - message_content: True, guilds: True, messages: True
+2026-06-13 22:45:02 [INFO] discord_listener.bot: Bot is in these servers: ['Facebook posting (1510426987192254486)']
+2026-06-13 22:45:02 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:45:02 [INFO] discord_listener.bot: Channels in Facebook posting:
+2026-06-13 22:45:02 [INFO] discord_listener.bot:   - general (1510426987892838442): view=True, read_history=True
+2026-06-13 22:45:03 [INFO] discord_listener.bot:     Successfully fetched 1 recent message(s)
+2026-06-13 22:47:09 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:47:09 [INFO] app: Checking Facebook access token...
+2026-06-13 22:47:09 [INFO] app: Facebook token is valid.
+2026-06-13 22:47:09 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:47:09 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:47:09 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:47:13 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:47:13 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:47:30 [INFO] discord_listener.bot: Valid message from anonymous056906: heloo...
+2026-06-13 22:47:30 [INFO] app: Processing message from anonymous056906 at 2026-06-13 17:17:28.279000+00:00
+2026-06-13 22:47:30 [WARNING] facebook.publisher: Attempt 1/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 22:47:36 [WARNING] facebook.publisher: Attempt 2/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 22:47:41 [WARNING] facebook.publisher: Attempt 3/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 22:47:41 [ERROR] facebook.publisher: All 3 attempts failed.
+2026-06-13 22:47:41 [ERROR] app: Pipeline failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 22:56:37 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:56:37 [INFO] app: Checking Facebook access token...
+2026-06-13 22:56:37 [INFO] app: Facebook token is valid.
+2026-06-13 22:56:37 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:56:37 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:56:37 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:56:41 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:56:41 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 22:59:04 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 22:59:04 [INFO] app: Checking Facebook access token...
+2026-06-13 22:59:04 [INFO] app: Facebook token is valid.
+2026-06-13 22:59:04 [INFO] app: AI Formatter: DISABLED
+2026-06-13 22:59:04 [INFO] app: Rate limit: 10s between posts
+2026-06-13 22:59:04 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 22:59:08 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 22:59:08 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 23:01:53 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 23:01:53 [INFO] app: Checking Facebook access token...
+2026-06-13 23:01:53 [INFO] app: Facebook token is valid.
+2026-06-13 23:01:53 [INFO] app: AI Formatter: DISABLED
+2026-06-13 23:01:53 [INFO] app: Rate limit: 10s between posts
+2026-06-13 23:01:53 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 23:01:57 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 23:01:57 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 23:07:02 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 23:07:02 [INFO] app: Checking Facebook access token...
+2026-06-13 23:07:02 [INFO] app: Facebook token is valid.
+2026-06-13 23:07:02 [INFO] app: AI Formatter: DISABLED
+2026-06-13 23:07:02 [INFO] app: Rate limit: 10s between posts
+2026-06-13 23:07:02 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 23:07:06 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 23:07:06 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 23:10:41 [WARNING] facebook.publisher: Attempt 1/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:10:46 [WARNING] facebook.publisher: Attempt 2/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:10:52 [WARNING] facebook.publisher: Attempt 3/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:10:52 [ERROR] facebook.publisher: All 3 attempts failed.
+2026-06-13 23:13:13 [WARNING] facebook.publisher: Attempt 1/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:13:18 [WARNING] facebook.publisher: Attempt 2/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:13:24 [WARNING] facebook.publisher: Attempt 3/3 failed: [403] (#200) If posting to a group, requires app being installed in the group, and \
+          either publish_to_groups permission with user token, or both pages_read_engagement \
+          and pages_manage_posts permission with page token; If posting to a page, \
+          requires both pages_read_engagement and pages_manage_posts as an admin with \
+          sufficient administrative permission
+2026-06-13 23:13:24 [ERROR] facebook.publisher: All 3 attempts failed.
+2026-06-13 23:14:05 [ERROR] facebook.publisher: Facebook token error: The access token could not be decrypted
+2026-06-13 23:16:44 [ERROR] facebook.publisher: Facebook token error: Malformed access token ERROR: {'error': {'message': '(#100) Tried accessing nonexisting field (accounts)', 'type': 'OAuthException', 'code': 100, 'fbtrace_id': 'A-vfGsRIgGEUBN68EFkbsbt'}}
+2026-06-13 23:21:10 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1629247977331457_1423575873122495
+2026-06-13 23:21:15 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-13 23:21:15 [INFO] app: Checking Facebook access token...
+2026-06-13 23:21:16 [INFO] app: Facebook token is valid.
+2026-06-13 23:21:16 [INFO] app: AI Formatter: DISABLED
+2026-06-13 23:21:16 [INFO] app: Rate limit: 10s between posts
+2026-06-13 23:21:16 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-13 23:21:20 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-13 23:21:20 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-13 23:22:39 [INFO] discord_listener.bot: Valid message from anonymous056906: heloi...
+2026-06-13 23:22:39 [INFO] app: Processing message from anonymous056906 at 2026-06-13 17:52:37.142000+00:00
+2026-06-13 23:22:49 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1629247977331457_1423576969789052
+2026-06-13 23:22:49 [INFO] app: Pipeline complete. FB Post ID: 1629247977331457_1423576969789052
+2026-06-19 17:41:43 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 17:41:43 [INFO] app: Checking Facebook access tokens...
+2026-06-19 17:41:43 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 61590834039484)...
+2026-06-19 17:41:44 [ERROR] app: Facebook token check failed for channel 1510426987892838442. Verify page token and page ID.
+2026-06-19 17:52:39 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 17:52:39 [INFO] app: Checking Facebook access tokens...
+2026-06-19 17:52:39 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 61590834039484)...
+2026-06-19 17:52:40 [ERROR] app: Facebook token check failed for channel 1510426987892838442. Verify page token and page ID.
+2026-06-19 17:58:07 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 17:58:07 [INFO] app: Checking Facebook access tokens...
+2026-06-19 17:58:07 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 17:58:07 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 61590834039484)...
+2026-06-19 17:58:08 [ERROR] app: Facebook token check failed for channel 1517499323447906304. Verify page token and page ID.
+2026-06-19 17:59:50 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 17:59:50 [INFO] app: Checking Facebook access tokens...
+2026-06-19 17:59:50 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 17:59:51 [INFO] app: All Facebook tokens are valid.
+2026-06-19 17:59:51 [INFO] app: AI Formatter: DISABLED
+2026-06-19 17:59:51 [INFO] app: Rate limit: 10s between posts
+2026-06-19 17:59:51 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 17:59:51 [INFO] app: Mapped channels: ['1510426987892838442']
+2026-06-19 17:59:56 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 17:59:56 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 17:59:56 [INFO] discord_listener.bot: Monitoring 1 mapped channel(s)
+2026-06-19 18:01:30 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 18:01:30 [INFO] app: Checking Facebook access tokens...
+2026-06-19 18:01:30 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 18:01:31 [INFO] app: All Facebook tokens are valid.
+2026-06-19 18:01:31 [INFO] app: AI Formatter: DISABLED
+2026-06-19 18:01:31 [INFO] app: Rate limit: 10s between posts
+2026-06-19 18:01:31 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 18:01:31 [INFO] app: Mapped channels: ['1510426987892838442']
+2026-06-19 18:01:35 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 18:01:35 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 18:01:35 [INFO] discord_listener.bot: Monitoring 1 mapped channel(s)
+2026-06-19 18:01:46 [INFO] discord_listener.bot: Valid message from anonymous056906: test1234...
+2026-06-19 18:01:46 [INFO] app: Processing message from anonymous056906 at 2026-06-19 12:31:45.427000+00:00
+2026-06-19 18:01:50 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1158617407338380_122104176531361134
+2026-06-19 18:01:50 [INFO] app: Pipeline complete. FB Post ID: 1158617407338380_122104176531361134
+2026-06-19 18:05:48 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 18:05:48 [INFO] app: Checking Facebook access tokens...
+2026-06-19 18:05:48 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 18:05:48 [INFO] app: All Facebook tokens are valid.
+2026-06-19 18:05:48 [INFO] app: AI Formatter: DISABLED
+2026-06-19 18:05:48 [INFO] app: Rate limit: 10s between posts
+2026-06-19 18:05:48 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 18:05:48 [INFO] app: Mapped channels: ['1510426987892838442']
+2026-06-19 18:05:52 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 18:05:52 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 18:05:52 [INFO] discord_listener.bot: Monitoring 1 mapped channel(s)
+2026-06-19 18:06:06 [INFO] discord_listener.bot: Valid message from anonymous056906: test 345...
+2026-06-19 18:06:06 [INFO] app: Processing message from anonymous056906 at 2026-06-19 12:36:05.381000+00:00
+2026-06-19 18:06:10 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1158617407338380_122104180113361134
+2026-06-19 18:06:10 [INFO] app: Pipeline complete. FB Post ID: 1158617407338380_122104180113361134
+2026-06-19 18:06:31 [INFO] discord_listener.bot: Valid message from anonymous056906: test 456...
+2026-06-19 18:06:31 [INFO] app: Processing message from anonymous056906 at 2026-06-19 12:36:30.982000+00:00
+2026-06-19 18:06:34 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1158617407338380_122104180629361134
+2026-06-19 18:06:34 [INFO] app: Pipeline complete. FB Post ID: 1158617407338380_122104180629361134
+2026-06-19 18:18:09 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 18:18:09 [INFO] app: Checking Facebook access tokens...
+2026-06-19 18:18:09 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 18:18:10 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 1091273044079468)...
+2026-06-19 18:18:10 [INFO] app: All Facebook tokens are valid.
+2026-06-19 18:18:10 [INFO] app: AI Formatter: DISABLED
+2026-06-19 18:18:10 [INFO] app: Rate limit: 10s between posts
+2026-06-19 18:18:10 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 18:18:10 [INFO] app: Mapped channels: ['1510426987892838442', '1517499323447906304']
+2026-06-19 18:18:14 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 18:18:14 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 18:18:14 [INFO] discord_listener.bot: Monitoring 2 mapped channel(s)
+2026-06-19 18:18:49 [INFO] discord_listener.bot: Valid message from anonymous056906: test 123...
+2026-06-19 18:18:49 [INFO] app: Processing message from anonymous056906 at 2026-06-19 12:48:48.517000+00:00
+2026-06-19 18:18:52 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1091273044079468_122093877519373719
+2026-06-19 18:18:52 [INFO] app: Pipeline complete. FB Post ID: 1091273044079468_122093877519373719
+2026-06-19 18:23:41 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 18:23:41 [INFO] app: Checking Facebook access tokens...
+2026-06-19 18:23:41 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 18:23:41 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 1091273044079468)...
+2026-06-19 18:23:42 [INFO] app: Checking Facebook token for channel 1517512464168783903 (page 1197381793452710)...
+2026-06-19 18:23:42 [INFO] app: All Facebook tokens are valid.
+2026-06-19 18:23:42 [INFO] app: AI Formatter: DISABLED
+2026-06-19 18:23:42 [INFO] app: Rate limit: 10s between posts
+2026-06-19 18:23:42 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 18:23:42 [INFO] app: Mapped channels: ['1510426987892838442', '1517499323447906304', '1517512464168783903']
+2026-06-19 18:23:46 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 18:23:46 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 18:23:46 [INFO] discord_listener.bot: Monitoring 3 mapped channel(s)
+2026-06-19 18:23:47 [INFO] discord_listener.bot: Valid message from anonymous056906: heeelo...
+2026-06-19 18:23:47 [INFO] app: Processing message from anonymous056906 at 2026-06-19 12:53:46.517000+00:00
+2026-06-19 18:23:51 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1197381793452710_122096337993367846
+2026-06-19 18:23:51 [INFO] app: Pipeline complete. FB Post ID: 1197381793452710_122096337993367846
+2026-06-19 18:35:02 [INFO] refresh_facebook_tokens: Exchanging short-lived User token for long-lived User token...
+2026-06-19 18:35:02 [INFO] refresh_facebook_tokens: Short-lived User token exchanged for long-lived User token.
+2026-06-19 18:35:02 [INFO] refresh_facebook_tokens: Fetching long-lived Page tokens...
+2026-06-19 18:35:14 [INFO] refresh_facebook_tokens: Exchanging short-lived User token for long-lived User token...
+2026-06-19 18:35:15 [INFO] refresh_facebook_tokens: Short-lived User token exchanged for long-lived User token.
+2026-06-19 18:35:15 [INFO] refresh_facebook_tokens: Fetching long-lived Page tokens...
+2026-06-19 18:38:56 [INFO] refresh_facebook_tokens: Exchanging short-lived User token for long-lived User token...
+2026-06-19 18:38:57 [INFO] refresh_facebook_tokens: Short-lived User token exchanged for long-lived User token.
+2026-06-19 18:38:57 [INFO] refresh_facebook_tokens: Fetching long-lived Page tokens from mappings.json page IDs...
+2026-06-19 18:38:57 [ERROR] refresh_facebook_tokens: Could not update token for channel 1510426987892838442 (page 1158617407338380): No access_token returned for page 1158617407338380. Make sure the user token has pages_manage_posts and pages_read_engagement permissions.
+2026-06-19 18:38:58 [ERROR] refresh_facebook_tokens: Could not update token for channel 1517499323447906304 (page 1091273044079468): No access_token returned for page 1091273044079468. Make sure the user token has pages_manage_posts and pages_read_engagement permissions.
+2026-06-19 18:38:58 [INFO] refresh_facebook_tokens: Updated token for channel 1517512464168783903 (page 1197381793452710).
+2026-06-19 18:38:58 [INFO] refresh_facebook_tokens: mappings.json updated successfully: mappings.json
+2026-06-19 18:47:25 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 18:47:25 [INFO] app: Checking Facebook access tokens...
+2026-06-19 18:47:25 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 18:47:25 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 1091273044079468)...
+2026-06-19 18:47:26 [INFO] app: Checking Facebook token for channel 1517512464168783903 (page 1197381793452710)...
+2026-06-19 18:47:26 [INFO] app: All Facebook tokens are valid.
+2026-06-19 18:47:26 [INFO] app: AI Formatter: DISABLED
+2026-06-19 18:47:26 [INFO] app: Rate limit: 10s between posts
+2026-06-19 18:47:26 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 18:47:26 [INFO] app: Mapped channels: ['1510426987892838442', '1517499323447906304', '1517512464168783903']
+2026-06-19 18:47:30 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 18:47:30 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 18:47:30 [INFO] discord_listener.bot: Monitoring 3 mapped channel(s)
+2026-06-19 18:47:32 [INFO] discord_listener.bot: Valid message from anonymous056906: test 234...
+2026-06-19 18:47:32 [INFO] app: Processing message from anonymous056906 at 2026-06-19 13:17:31.067000+00:00
+2026-06-19 18:47:34 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1197381793452710_122096352687367846
+2026-06-19 18:47:34 [INFO] app: Pipeline complete. FB Post ID: 1197381793452710_122096352687367846
+2026-06-19 18:49:23 [INFO] refresh_facebook_tokens: Exchanging short-lived User token for long-lived User token...
+2026-06-19 18:49:24 [INFO] refresh_facebook_tokens: Short-lived User token exchanged for long-lived User token.
+2026-06-19 18:49:24 [INFO] refresh_facebook_tokens: Fetching long-lived Page tokens from mappings.json page IDs...
+2026-06-19 18:49:24 [ERROR] refresh_facebook_tokens: Could not update token for channel 1510426987892838442 (page 1158617407338380): No access_token returned for page 1158617407338380. Make sure the user token has pages_manage_posts and pages_read_engagement permissions.
+2026-06-19 18:49:25 [INFO] refresh_facebook_tokens: Updated token for channel 1517499323447906304 (page 1091273044079468).
+2026-06-19 18:49:25 [ERROR] refresh_facebook_tokens: Could not update token for channel 1517512464168783903 (page 1197381793452710): No access_token returned for page 1197381793452710. Make sure the user token has pages_manage_posts and pages_read_engagement permissions.
+2026-06-19 18:49:25 [INFO] refresh_facebook_tokens: mappings.json updated successfully: mappings.json
+2026-06-19 19:06:46 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 19:06:46 [INFO] app: Checking Facebook access tokens...
+2026-06-19 19:06:46 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 19:06:47 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 1091273044079468)...
+2026-06-19 19:06:47 [INFO] app: Checking Facebook token for channel 1517512464168783903 (page 1197381793452710)...
+2026-06-19 19:06:47 [INFO] app: All Facebook tokens are valid.
+2026-06-19 19:06:47 [INFO] app: AI Formatter: DISABLED
+2026-06-19 19:06:47 [INFO] app: Rate limit: 10s between posts
+2026-06-19 19:06:47 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 19:06:47 [INFO] app: Mapped channels: ['1510426987892838442', '1517499323447906304', '1517512464168783903']
+2026-06-19 19:06:51 [INFO] discord_listener.bot: Discord bot logged in as shoro ai#5273 (ID: 1515371835653492917)
+2026-06-19 19:06:51 [INFO] discord_listener.bot: Monitoring server ID: 1510426987192254486
+2026-06-19 19:06:51 [INFO] discord_listener.bot: Monitoring 3 mapped channel(s)
+2026-06-19 19:10:07 [INFO] discord_listener.bot: Valid message from anonymous056906: test 345...
+2026-06-19 19:10:07 [INFO] app: Processing message from anonymous056906 at 2026-06-19 13:40:06.396000+00:00
+2026-06-19 19:10:10 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 1197381793452710_122096360739367846
+2026-06-19 19:10:10 [INFO] app: Pipeline complete. FB Post ID: 1197381793452710_122096360739367846
+2026-06-19 19:11:13 [INFO] discord_listener.bot: Valid message from anonymous056906: hello...
+2026-06-19 19:11:13 [INFO] app: Processing message from anonymous056906 at 2026-06-19 13:41:12.510000+00:00
+2026-06-19 19:11:18 [INFO] facebook.publisher: Facebook post published successfully. Post ID: 122096361057367846
+2026-06-19 19:11:18 [INFO] app: Pipeline complete. FB Post ID: 122096361057367846
+2026-06-19 19:12:45 [INFO] app: === Discord -> Facebook Agent Starting ===
+2026-06-19 19:12:45 [INFO] app: Checking Facebook access tokens...
+2026-06-19 19:12:45 [INFO] app: Checking Facebook token for channel 1510426987892838442 (page 1158617407338380)...
+2026-06-19 19:12:45 [INFO] app: Checking Facebook token for channel 1517499323447906304 (page 1091273044079468)...
+2026-06-19 19:12:46 [INFO] app: Checking Facebook token for channel 1517512464168783903 (page 1197381793452710)...
+2026-06-19 19:12:46 [INFO] app: All Facebook tokens are valid.
+2026-06-19 19:12:46 [INFO] app: AI Formatter: DISABLED
+2026-06-19 19:12:46 [INFO] app: Rate limit: 10s between posts
+2026-06-19 19:12:46 [INFO] app: Monitoring server ID: 1510426987192254486
+2026-06-19 19:12:46 [INFO] app: Mapped channels: ['1510426987892838442', '1517499323447906304', '1517512464168783903']
