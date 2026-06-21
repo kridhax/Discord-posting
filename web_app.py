@@ -17,11 +17,18 @@ import os
 from contextlib import asynccontextmanager
 
 import config
-from fastapi import FastAPI
+from fastapi import FastAPI, Form
+from fastapi.responses import HTMLResponse
 from discord_listener.bot import start_bot_async
 from logger.logger import get_logger
 from facebook.publisher import check_token
 from handlers import handle_message
+from token_refresh import (
+    HTML_PAGE,
+    exchange_user_token,
+    fetch_page_token,
+    render_result,
+)
 
 logger = get_logger("web_app")
 
@@ -79,6 +86,27 @@ async def root():
 @app.get("/health")
 async def health():
     return {"status": "healthy"}
+
+
+@app.get("/token", response_class=HTMLResponse)
+async def token_form():
+    return HTML_PAGE.format(result="")
+
+
+@app.post("/token", response_class=HTMLResponse)
+async def token_generate(
+    app_id: str = Form(...),
+    app_secret: str = Form(...),
+    short_lived_token: str = Form(...),
+    page_id: str = Form(...),
+):
+    try:
+        long_lived_user_token = exchange_user_token(app_id, app_secret, short_lived_token)
+        page_token = fetch_page_token(long_lived_user_token, page_id)
+        result = render_result("", token=page_token)
+    except Exception as e:
+        result = render_result(f"Token generation failed: {e}", is_error=True)
+    return HTML_PAGE.format(result=result)
 
 
 if __name__ == "__main__":

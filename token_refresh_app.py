@@ -1,7 +1,10 @@
 """
-Minimal Facebook Long-Lived Page Token Generator
+Minimal Facebook Long-Lived Page Token Generator (Streamlit)
 
 This Streamlit app takes 4 inputs and returns one long-lived Facebook Page token.
+
+For a deployment that does not require Streamlit or Pillow, use the FastAPI web UI
+included in web_app.py (routes /token and POST /token).
 
 Inputs:
 1. Facebook App ID
@@ -24,8 +27,9 @@ WARNING: This app handles secrets. Do not share the deployed URL publicly.
 Tokens are processed in memory and never logged or stored.
 """
 
-import requests
 import streamlit as st
+
+from token_refresh import exchange_user_token, fetch_page_token
 
 API_VERSION = "v19.0"
 BASE_URL = f"https://graph.facebook.com/{API_VERSION}"
@@ -35,52 +39,6 @@ st.set_page_config(
     page_icon="🔑",
     layout="centered",
 )
-
-
-def exchange_user_token(app_id: str, app_secret: str, short_lived_token: str) -> str:
-    url = f"{BASE_URL}/oauth/access_token"
-    params = {
-        "grant_type": "fb_exchange_token",
-        "client_id": app_id,
-        "client_secret": app_secret,
-        "fb_exchange_token": short_lived_token,
-    }
-    response = requests.get(url, params=params, timeout=30)
-    data = response.json()
-
-    if response.status_code != 200 or "access_token" not in data:
-        error = data.get("error", {})
-        raise RuntimeError(
-            f"Failed to exchange user token: {error.get('message', data)}"
-        )
-
-    return data["access_token"]
-
-
-def fetch_page_token(long_lived_user_token: str, page_id: str) -> str:
-    url = f"{BASE_URL}/{page_id}"
-    params = {
-        "access_token": long_lived_user_token,
-        "fields": "access_token",
-    }
-    response = requests.get(url, params=params, timeout=30)
-    data = response.json()
-
-    if response.status_code != 200:
-        error = data.get("error", {})
-        raise RuntimeError(
-            f"Failed to fetch page token: {error.get('message', data)}"
-        )
-
-    token = data.get("access_token")
-    if not token:
-        raise RuntimeError(
-            "No page token returned. Make sure the user token has "
-            "pages_manage_posts and pages_read_engagement permissions, "
-            "and that you are an admin of the page."
-        )
-
-    return token
 
 
 def main():
