@@ -2,6 +2,7 @@ import discord
 import config
 from logger.logger import get_logger
 from utils.helpers import is_rate_limited, is_duplicate
+from handlers import handle_message
 
 logger = get_logger(__name__)
 
@@ -70,3 +71,10 @@ class DiscordBot(discord.Client):
 def start_bot(on_valid_message):
     bot = DiscordBot(on_valid_message=on_valid_message)
     bot.run(config.DISCORD_TOKEN)
+
+
+async def start_bot_async(on_valid_message=None):
+    """Start the Discord bot without blocking. For use within an async event loop."""
+    on_valid_message = on_valid_message or handle_message
+    bot = DiscordBot(on_valid_message=on_valid_message)
+    await bot.start(config.DISCORD_TOKEN)

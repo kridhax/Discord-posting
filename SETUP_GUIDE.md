@@ -337,9 +337,49 @@ Now any message you send in a mapped Discord channel will be posted to the conne
 
 ---
 
-## Step 10: Keep the Bot Running
+## Step 10: Deploy to Render (Free Web Service)
 
-The bot stops when you close the terminal. To keep it running:
+You can run the bot on Render's free Web Service tier by wrapping it in a FastAPI app.
+
+### What this does
+
+- A FastAPI web server runs on port 10000.
+- The Discord bot runs in the background.
+- A `/health` endpoint keeps the service awake.
+
+### Deploy steps
+
+1. Push your code to GitHub.
+2. Go to https://dashboard.render.com and click **New + → Web Service**.
+3. Connect your GitHub repo.
+4. Render will detect the `Dockerfile` automatically.
+5. Add environment variables in the Render dashboard:
+   - `DISCORD_TOKEN`
+   - `DISCORD_GUILD_ID`
+   - `SUPABASE_URL` (optional)
+   - `SUPABASE_KEY` (optional)
+6. Set the **Health Check Path** to `/health` in Settings.
+7. Click **Create Web Service**.
+
+The Dockerfile now runs:
+
+```bash
+uvicorn web_app:app --host 0.0.0.0 --port 10000
+```
+
+Your service will be reachable at `https://your-service.onrender.com`.
+
+### Important limitations
+
+- Render free Web Services spin down after 15 minutes of inactivity.
+- The health check pings help, but Render may still sleep the service occasionally.
+- For a truly 24/7 bot, consider a paid Background Worker or a different host.
+
+---
+
+## Step 11: Keep the Bot Running (Local)
+
+The bot stops when you close the terminal. To keep it running locally:
 
 - On Windows, run it as a background service.
 - Use a tool like PM2 or NSSM.

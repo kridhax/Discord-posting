@@ -12,4 +12,4 @@ COPY . .
 # Create logs directory
 RUN mkdir -p logs
 
-CMD ["python", "app.py"]
+CMD ["uvicorn", "web_app:app", "--host", "0.0.0.0", "--port", "10000"]
