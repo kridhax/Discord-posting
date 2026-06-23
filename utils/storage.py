@@ -34,10 +34,14 @@ class LocalFileStorage:
         self.path = path
 
     def load(self) -> dict:
+        abs_path = os.path.abspath(self.path)
+        print(f"[storage] Looking for mappings at: {abs_path} (exists={os.path.exists(abs_path)})")
         if not os.path.exists(self.path):
             return {}
         with open(self.path, "r", encoding="utf-8") as f:
-            return json.load(f)
+            data = json.load(f)
+            print(f"[storage] Loaded {len(data)} mapping(s)")
+            return data
 
     def save(self, mappings: dict):
         os.makedirs(os.path.dirname(self.path) or ".", exist_ok=True)
