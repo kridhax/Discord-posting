@@ -3,7 +3,12 @@ set -e
 
 echo "SERVICE_MODE=$SERVICE_MODE"
 
-if [ -n "$MAPPINGS_JSON_B64" ]; then
+# Render mounts Secret Files at /etc/secrets/<filename>
+if [ -f /etc/secrets/mappings.json ]; then
+    echo "Found Render secret file at /etc/secrets/mappings.json, copying to /app..."
+    cp /etc/secrets/mappings.json /app/mappings.json
+    echo "Copied /app/mappings.json ($(wc -c < /app/mappings.json) bytes)"
+elif [ -n "$MAPPINGS_JSON_B64" ]; then
     echo "Writing mappings.json from base64 environment variable..."
     printf '%s\n' "$MAPPINGS_JSON_B64" | base64 -d > /app/mappings.json
     echo "Wrote /app/mappings.json ($(wc -c < /app/mappings.json) bytes)"
@@ -12,7 +17,7 @@ elif [ -n "$MAPPINGS_JSON" ]; then
     printf '%s\n' "$MAPPINGS_JSON" > /app/mappings.json
     echo "Wrote /app/mappings.json ($(wc -c < /app/mappings.json) bytes)"
 else
-    echo "No mappings env var set, relying on existing /app/mappings.json"
+    echo "No mappings source found, relying on existing /app/mappings.json"
 fi
 
 if [ "$SERVICE_MODE" = "token" ]; then
