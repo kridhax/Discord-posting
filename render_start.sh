@@ -1,7 +1,15 @@
 #!/bin/sh
+set -e
+
+echo "SERVICE_MODE=$SERVICE_MODE"
+echo "MAPPINGS_JSON length=${#MAPPINGS_JSON}"
+
 if [ -n "$MAPPINGS_JSON" ]; then
     echo "Writing mappings.json from environment variable..."
     printf '%s\n' "$MAPPINGS_JSON" > /app/mappings.json
+    echo "Wrote /app/mappings.json ($(wc -c < /app/mappings.json) bytes)"
+else
+    echo "MAPPINGS_JSON not set, relying on existing /app/mappings.json"
 fi
 
 if [ "$SERVICE_MODE" = "token" ]; then
